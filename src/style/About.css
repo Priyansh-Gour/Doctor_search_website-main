@@ -1,0 +1,47 @@
+.container{
+    margin-top: 5rem;
+}
+
+.heading p{
+    margin-left: 28rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.steps{
+    display: flex;
+    gap: 3rem;
+    margin-left:1.5rem ;
+}
+
+.step1{
+    margin-left: 4rem;
+}
+
+.step3{
+    margin-right: 4rem;
+}
+.para{
+    margin-left: 5rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+   
+}
+
+
+.iconimg{
+    margin-left: 8rem;
+    font-size: 1.9rem;
+    background-color: rgb(167, 206, 224);
+    border-radius: 3rem;
+    padding: 0.7rem;
+    color: rgb(85, 83, 83);
+}
+
+.para1{
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    color: rgb(99, 98, 98);
+   
+}

@@ -1,0 +1,72 @@
+.expdoc{
+    width: 30%;
+    border-radius: 3.4rem;
+    margin-left: 4rem;
+    margin-top: -1rem;
+}
+
+.service{
+    margin-top: 5rem;
+    margin-left: 13rem;
+
+}
+
+.left_service{
+    margin-left: 35rem;
+    margin-top: -22rem;
+}
+
+.left_service p{
+    font-size: 1.5rem;
+    line-height: 0.3rem;
+    font-weight: 600;
+
+}
+
+.btn{
+    background-color: rgb(26, 119, 156);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.subpara{
+    width:30%;
+    margin-left: 35rem;
+    margin-top: 2rem;
+
+   
+}
+ 
+.points{
+    margin-left: 35rem;
+    margin-top: 2rem;
+}
+
+.tick{
+    background-color: rgb(26, 119, 156);
+  padding: 0.1rem;
+  border-radius: 1rem;
+  margin-right: 0.5rem;
+  color: white;
+  font-size: 0.8rem;
+}
+
+
+.specialties {
+    margin-top: 20px;
+  }
+  
+  .specialties ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .specialties li {
+    padding: 5px 0;
+    font-size: 16px;
+  }
+  
